@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author antonio
+ * @author adria
  */
 public class PastillasCorrecion {
 
