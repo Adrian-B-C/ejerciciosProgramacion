@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author alexa
+ * @author abalague
  */
 public class Pirenaica {
     public static void main(String[] args){
